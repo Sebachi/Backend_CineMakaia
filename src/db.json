@@ -1,0 +1,43 @@
+{
+  "funciones": [
+    {
+      "id": 1,
+      "teatro": 1,
+      "sala": 1,
+      "horario": 1,
+      "pelicula": 1,
+      "asientos": [
+        {
+          "id": 1,
+          "status": "false"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "teatro": 1,
+      "sala": 1,
+      "horario": 1,
+      "pelicula": 2,
+      "asientos": [
+        {
+          "id": 1,
+          "status": "false"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "teatro": 1,
+      "sala": 1,
+      "horario": 1,
+      "pelicula": 2,
+      "asientos": [
+        {
+          "id": 1,
+          "status": "false"
+        }
+      ]
+    }
+  ]
+}
